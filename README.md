@@ -6,7 +6,7 @@ This is a simple personal portfolio website created using pure HTML and CSS. It 
 
 You can open the index.html file in your browser to see the portfolio.
 
-![image]()
+![image](IMG-20250615-WA0003.jpg)
 
 
 ---
