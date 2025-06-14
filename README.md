@@ -59,17 +59,6 @@ Replace achievement and project images and descriptions.
 
 4. Optionally, you can host it on GitHub Pages, Netlify, or any other free hosting service.
 
----
-
-📧 Contact
-
-LinkedIn: Girish Mohakar
-
-GitHub: girishmohakarentc
-
-Email: girishmohakarentc@gmail.com
-
-
 
 ---
 
