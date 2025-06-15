@@ -54,7 +54,7 @@ Update your LinkedIn, GitHub, and other social links.
 Replace achievement and project images and descriptions.
 
 
-3. Open index.html in your browser to view your personal portfolio.
+3. Open code.html in your browser to view your personal portfolio.
 
 
 4. Optionally, you can host it on GitHub Pages, Netlify, or any other free hosting service.
