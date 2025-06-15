@@ -45,7 +45,7 @@ No external libraries or frameworks used.
 1. Clone or download the repository.
 
 
-2. Replace index.html with your own information:
+2. Replace code.html with your own information:
 
 Change your name, intro, profile picture.
 
